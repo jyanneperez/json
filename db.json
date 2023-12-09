@@ -1,4 +1,12 @@
 {
-  "completedTasks": 25,
-  "uncompletedTasks": 10
+  "Tasks": [
+    {
+      "completedTasks": 25,
+      "uncompletedTasks": 10
+    }
+  ],
+  "Tasks": {
+   "completedTasks": 25,
+      "uncompletedTasks": 10
+  }
 }
